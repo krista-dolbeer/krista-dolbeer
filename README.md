@@ -1,6 +1,6 @@
 # Hi there 👋🏻 I'm Krista!
 
-### :sparkles: About Me in 30 Seconds :sparkles:
+### :sparkles: A Little About Me :sparkles:
 * Business Analytics & Technology student at Portland State University
 * 15 years of customer service experience | 5 years of sales experience
 * <b>Expected Graduation Date: June 2023</b>
@@ -10,12 +10,13 @@
 * Skills: Data Cleaning, Data Analysis, Relational Databases, Dashboard Design/Development
 * Working Knowledge: Blockchain technology, supply chain management, project management
 
-### :memo: Currently :memo:
+### :memo: What I'm Up To Currently :memo:
 * Learning Python via Data Camp
-* Employment: Sales in the legal space at DocuSign
+* Employment: Tech Sales at DocuSign
+* Location: Nashville, TN (open to relocating)
 
-### 📫 Connect With Me 📫 
-* [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/krista-graham/)
-* [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](<mailto: k.e.graham91@gmail.com>) 
+### 📫 Let's Connect!
+ [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/krista-graham/) 
+ [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](<mailto: k.e.graham91@gmail.com>) 
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{kegraham91}1212%2Fhit-counter" />
