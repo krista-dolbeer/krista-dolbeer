@@ -15,8 +15,10 @@
 * Employment: Tech Sales at DocuSign
 * Location: Nashville, TN (open to relocating)
 
+### [Check out my projects here.](https://github.com/kegraham91/My-Projects/blob/main/README.md) 
+
 ### 📫 Let's Connect!
  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/krista-graham/) 
  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](<mailto: k.e.graham91@gmail.com>) 
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{kegraham91}1212%2Fhit-counter" />
+
