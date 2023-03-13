@@ -6,7 +6,7 @@
 * <b>Expected Graduation Date: June 2023</b>
 
 ### :bulb: Core Competencies :bulb:
-* Tools: SQL, Tableau, Microsoft Access, Excel/Google Sheets, Salesforce
+* Tools: SQL, Tableau, Microsoft Access, Excel, G-Suite, Salesforce
 * Skills: Data Cleaning, Data Analysis, Relational Databases, Dashboard Design/Development
 * Working Knowledge: Blockchain technology, supply chain management, project management
 
