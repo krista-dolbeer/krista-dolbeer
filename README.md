@@ -1,9 +1,9 @@
 # Hi there 👋🏻 I'm Krista!
 
 ### :sparkles: A Little About Me :sparkles:
-* Business Analytics & Technology student at Portland State University
+* B.S. Business Analytics & Technology at Portland State University
 * 15 years of customer service experience | 5 years of sales experience
-* <b>Expected Graduation Date: June 2023</b>
+* Looking to pivot careers from sales to Business/Data Analytics
 
 ### :bulb: Core Competencies :bulb:
 * Tools: SQL, Python, Tableau, Microsoft Access, Excel, G-Suite, Salesforce, Monday.com
