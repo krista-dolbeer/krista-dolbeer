@@ -6,12 +6,12 @@
 * <b>Expected Graduation Date: June 2023</b>
 
 ### :bulb: Core Competencies :bulb:
-* Tools: SQL, Tableau, Microsoft Access, Excel, G-Suite, Salesforce
-* Skills: Data Cleaning, Data Analysis, Relational Databases, Dashboard Design/Development
-* Working Knowledge: Blockchain technology, supply chain management, project management
+* Tools: SQL, Python, Tableau, Microsoft Access, Excel, G-Suite, Salesforce, Monday.com
+* Skills: data cleaning, data analysis, relational databases, dashboard design/development
+* Working Knowledge: systems analysis & design (SAD), blockchain technology, supply chain management, project management
 
 ### :memo: What I'm Up To Currently :memo:
-* Learning Python via Data Camp
+* Capstone to finalize degree requirements
 * Employment: Tech Sales at DocuSign
 * Location: Nashville, TN (open to relocating)
 
