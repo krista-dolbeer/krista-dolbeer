@@ -2,15 +2,16 @@
 
 ### :sparkles: A Little About Me :sparkles:
 * I have a passion for data-driven decision making and analytical thinking 
-* B.S. Business Analytics & Technology
+* B.S. Business Analytics & Technology from Portland State University
+* I am a quick-starter and believe in delivering high-quality work
 
 ### :bulb: Core Competencies :bulb:
 * Tools: SQL, Python, Tableau, Microsoft Access, Excel, G-Suite, Salesforce, Monday.com
-* Skills: data cleaning, data analysis, relational databases, dashboard design/development
+* Skills: data cleaning, data analysis, relational databases, dashboard design/development, machine learning, database management
 * Working Knowledge: systems analysis & design (SAD), blockchain technology, supply chain management, project management
 
 ### :memo: What I'm Up To Currently :memo:
-* Advanced SQL
+* Sharpening my SQL skills
 * Employer: DocuSign
 * Location: Nashville, TN (open to relocating)
 
