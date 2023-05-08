@@ -1,9 +1,8 @@
 # Hi there 👋🏻 I'm Krista!
 
 ### :sparkles: A Little About Me :sparkles:
-* I have a passion for data-driven decision making
-* B.S. Business Analytics & Technology at Portland State University (graduating June 2023) 
-* 15 years of customer service experience | 5 years of sales experience
+* I have a passion for data-driven decision making and analytical thinking 
+* B.S. Business Analytics & Technology
 
 ### :bulb: Core Competencies :bulb:
 * Tools: SQL, Python, Tableau, Microsoft Access, Excel, G-Suite, Salesforce, Monday.com
@@ -11,9 +10,8 @@
 * Working Knowledge: systems analysis & design (SAD), blockchain technology, supply chain management, project management
 
 ### :memo: What I'm Up To Currently :memo:
-* Senior Capstone Project
 * Advanced SQL
-* Employment: Tech Sales at DocuSign
+* Employer: DocuSign
 * Location: Nashville, TN (open to relocating)
 
 ### [Check out my projects here.](https://github.com/kegraham91/My-Projects/blob/main/README.md) 
