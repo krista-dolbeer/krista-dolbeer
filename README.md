@@ -1,7 +1,7 @@
 # Hi there 👋🏻 I'm Krista!
 
 ### :sparkles: A Little About Me :sparkles:
-* I have a passion for data-driven decision making and analytical thinking 
+* I have a passion for data-driven decision-making and analytical thinking 
 * B.S. Business Analytics & Technology from Portland State University
 * I am a quick-starter and believe in delivering high-quality work
 
@@ -12,8 +12,8 @@
 
 ### :memo: What I'm Up To Currently :memo:
 * Sharpening my SQL skills
-* Employer: DocuSign
-* Location: Nashville, TN (open to relocating)
+* Employer: Asurion
+* Location: Nashville, TN 
 
 ### [Check out my projects here.](https://github.com/kegraham91/My-Projects/blob/main/README.md) 
 
