@@ -6,12 +6,12 @@
 * I am a quick-starter and believe in delivering high-quality work
 
 ### :bulb: Core Competencies :bulb:
-* Tools: SQL, Python, Tableau, Microsoft Access, Excel, G-Suite, Salesforce, Monday.com
+* Tools: SQL, PowerBI, Tableau, Excel, G-Suite, Salesforce, Monday.com
 * Skills: data cleaning, data analysis, relational databases, dashboard design/development, machine learning, database management
 * Working Knowledge: systems analysis & design (SAD), blockchain technology, supply chain management, project management
 
 ### :memo: What I'm Up To Currently :memo:
-* Sharpening my SQL skills
+* Sharpening my PowerBI skills
 * Employer: Asurion
 * Location: Nashville, TN 
 
