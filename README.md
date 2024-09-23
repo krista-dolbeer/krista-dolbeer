@@ -1,18 +1,18 @@
 # Hi there 👋🏻 I'm Krista!
 
 ### :sparkles: A Little About Me :sparkles:
-* I have a passion for data-driven decision-making and analytical thinking 
+* I have a passion for data-driven decision-making and driving change in the sales and incentives space 
 * B.S. Business Analytics & Technology from Portland State University
-* I am a quick-starter and believe in delivering high-quality work
+* I am a quick-starter and believe in delivering high-quality work through process automation and optimization
 
 ### :bulb: Core Competencies :bulb:
 * Tools: SQL, PowerBI, Tableau, Excel, G-Suite, Salesforce, Monday.com
 * Skills: data cleaning, data analysis, relational databases, dashboard design/development, machine learning, database management
-* Working Knowledge: systems analysis & design (SAD), blockchain technology, supply chain management, project management
+* Working Knowledge: systems analysis & design (SAD), blockchain technology, supply chain management, project management and Python
 
 ### :memo: What I'm Up To Currently :memo:
-* Sharpening my PowerBI skills
-* Employer: Asurion
+* Hosting quarterly dashboard competitions with fellow data analysts in my area
+* Senior Data Analyst at Asurion
 * Location: Nashville, TN 
 
 ### [Check out my projects here.](https://github.com/kegraham91/My-Projects/blob/main/README.md) 
